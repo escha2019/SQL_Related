@@ -1,13 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# Note: I do not have a personal computer currently. I used my school’s computer. And, using my school computer meant that I could not download a software 
-# (e.g. mysql workbench), but I could pip install a python library. So, I connected to the database using connector/Python 
-# (here’s the library url: https://dev.mysql.com/doc/connector-python/en/connector-python-example-connecting.html)
-
-# In[1]:
-
-
 import mysql.connector
 import pandas as pd
 
